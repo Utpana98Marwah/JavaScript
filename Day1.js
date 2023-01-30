@@ -53,7 +53,7 @@ console.log(result);
     return creature.habitat == "Ocean";
   });
   console.log(oceanCreatures);
-Output :                      
+                   
 let creatures = [
     {name: "Shark", habitat: "Ocean"},
     {name: "Lion", habitat: "Savanna"},
