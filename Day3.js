@@ -1,4 +1,4 @@
-//Function declaration and expression: -
+//Function declaration and expression: 
 //Function declaration: function declaration must have a function name.
 /*function show()
 {
