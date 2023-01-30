@@ -8,7 +8,7 @@ const {firstName,lastName,rollno:rollNo,state} = student;
 console.log(firstName,rollNo);
 */
 
-//Array Destructuring:
+//Array Destructuring
 /*var studentName = ["Utpana", "Riya", "Rashmi", "Aastha","Archana"]; 
 const [name1,name2,name3,name4,name5] = studentName;
 console.log(name1,name5);
