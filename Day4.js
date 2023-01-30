@@ -30,7 +30,7 @@ console.log(result);
 let newText = text.split(" ");
 console.log(newText);*/
 
-//join & split :-
+//join & split :
 
 /*let page = "online compiler";
 const arr = page.split(" ");
