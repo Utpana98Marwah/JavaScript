@@ -114,27 +114,27 @@ console.log(res);*/
 
 // Filter Retail companies
 
-//let retailCompany = companies.filter((company)=> company.category =='Retail');
-//console.log(retailCompany);
+/*let retailCompany = companies.filter((company)=> company.category =='Retail');
+console.log(retailCompany);*/
 
 //Get companies that lasted for 10 or more years
 
-//let result = companies.filter((company) => company.end - company.start >=10);  
-//console.log(result); 
+/*let result = companies.filter((company) => company.end - company.start >=10);  
+console.log(result);*/
 
 
 // create array of company names
 
-//let companyName = companies.map((company)=>company.name);
-//console.log(companyName);
+/*let companyName = companies.map((company)=>company.name);
+console.log(companyName);*/
 
 // Get total years for all companies
 
-//let totalYears = companies.map((company) => company.end-company.start);
-//console.log(totalYears);
+/*let totalYears = companies.map((company) => company.end-company.start);
+console.log(totalYears);*/
 
 //Sort companies by sort year
 
-//let result = companies.sort((a,b) => a.start - b.start);
-//console.log(result);
+/*let result = companies.sort((a,b) => a.start - b.start);
+console.log(result);*/
 
