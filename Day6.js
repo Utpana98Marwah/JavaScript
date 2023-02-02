@@ -1,4 +1,4 @@
-//Question 1 --> split into 2 objects with odd keys in one and even in another.
+//Question 1 split into 2 objects with odd keys in one and even in another.
 
 let a = { a: 'a', b: 'b', c: 'c', d: 'd', e: 'e', f: 'f', g: 'g' };
 let even ={};
