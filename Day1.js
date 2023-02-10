@@ -1,3 +1,10 @@
+/*
+unshift()
+push()
+splice()
+pop()
+shift()
+*/
 //Adding elements in array (first/last/any specific index)
 const array = [5,6,7,9,3];
 array.unshift(1);
