@@ -1,3 +1,16 @@
+/*
+Object Destructuring
+Array Destructuring
+Spread Operator
+for of loop
+for in loop
+String/Template literal
+Rest operator
+Ternary operator
+*/
+
+
+
 //Object Destructuring:  object destructuring is used to get all the values in single line.
 /*const student = {firstName: 'Utpana', 
                  lastName: 'Marwah', 
